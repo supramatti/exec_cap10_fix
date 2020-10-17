@@ -1,0 +1,12 @@
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.exe
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.deps.json
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.runtimeconfig.json
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.runtimeconfig.dev.json
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.dll
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\bin\Debug\netcoreapp3.1\exec_cap10_fix.pdb
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.AssemblyInfoInputs.cache
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.AssemblyInfo.cs
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.csproj.CoreCompileInputs.cache
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.dll
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.pdb
+C:\Dev\C#\exec_cap10_fix\exec_cap10_fix\obj\Debug\netcoreapp3.1\exec_cap10_fix.genruntimeconfig.cache
